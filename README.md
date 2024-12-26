@@ -29,7 +29,7 @@ Performance comparison helps identify the best model for the task.
 
 ### 7. Model Saving and Prediction 
 The best-performing model (Random Forest) is retrained on the entire dataset and saved using joblib.
-Demonstrated how to use the saved model to predict whether a mushroom is edible or poisonous.
+Demonstrated in my Pythob code how to use the saved model to predict whether a mushroom is edible or poisonous.
 
 ### 8. GUI Implementation 
 A GUI is created using (tkinter library) to allow users to input mushroom features and get classification results in real-time.
